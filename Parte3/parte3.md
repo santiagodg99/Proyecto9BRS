@@ -89,5 +89,5 @@ SSL Labs lo marca como **"No confiable"** en todos los navegadores/sistemas oper
 ---
 
 ## **Conclusión general**
-**Certificado válido:** Cumple con todos los requisitos de confianza, validez y seguridad moderna.
-**Certificados inválidos:** Fallan en aspectos críticos como expiración, coincidencia de nombres o falta de respaldo de una CA.
++ **Certificado válido:** Cumple con todos los requisitos de confianza, validez y seguridad moderna.
++ **Certificados inválidos:** Fallan en aspectos críticos como expiración, coincidencia de nombres o falta de respaldo de una CA.
